@@ -1,0 +1,2 @@
+model__bootstrap,model__max_features,model__n_estimators
+False,sqrt,160

@@ -1,0 +1,1001 @@
+param,rmts
+"{'model__max_features': 21, 'model__n_estimators': 10}",1.3578113724675347
+"{'model__max_features': 21, 'model__n_estimators': 20}",1.3322158765722034
+"{'model__max_features': 21, 'model__n_estimators': 30}",1.3105859701695601
+"{'model__max_features': 21, 'model__n_estimators': 40}",1.3045478500776597
+"{'model__max_features': 21, 'model__n_estimators': 50}",1.3052856877479089
+"{'model__max_features': 21, 'model__n_estimators': 60}",1.3006349977005776
+"{'model__max_features': 21, 'model__n_estimators': 70}",1.2944632877006426
+"{'model__max_features': 21, 'model__n_estimators': 80}",1.2880436157638744
+"{'model__max_features': 21, 'model__n_estimators': 90}",1.282645169475909
+"{'model__max_features': 21, 'model__n_estimators': 100}",1.2794293899479199
+"{'model__max_features': 21, 'model__n_estimators': 110}",1.2815010846791752
+"{'model__max_features': 21, 'model__n_estimators': 120}",1.2862140241808697
+"{'model__max_features': 21, 'model__n_estimators': 130}",1.282987603961277
+"{'model__max_features': 21, 'model__n_estimators': 140}",1.2845236972447267
+"{'model__max_features': 21, 'model__n_estimators': 150}",1.2824347943105616
+"{'model__max_features': 21, 'model__n_estimators': 160}",1.282713543859838
+"{'model__max_features': 21, 'model__n_estimators': 170}",1.283933830407525
+"{'model__max_features': 21, 'model__n_estimators': 180}",1.2840431223759354
+"{'model__max_features': 21, 'model__n_estimators': 190}",1.283405144767382
+"{'model__max_features': 21, 'model__n_estimators': 200}",1.2855426347178425
+"{'model__max_features': 21, 'model__n_estimators': 210}",1.2841157378943902
+"{'model__max_features': 21, 'model__n_estimators': 220}",1.2846872757298875
+"{'model__max_features': 21, 'model__n_estimators': 230}",1.283725926259575
+"{'model__max_features': 21, 'model__n_estimators': 240}",1.2857642268585865
+"{'model__max_features': 21, 'model__n_estimators': 250}",1.285211915033331
+"{'model__max_features': 21, 'model__n_estimators': 260}",1.2857189754307914
+"{'model__max_features': 21, 'model__n_estimators': 270}",1.2848755066931217
+"{'model__max_features': 21, 'model__n_estimators': 280}",1.2850893030829973
+"{'model__max_features': 21, 'model__n_estimators': 290}",1.2833005364248935
+"{'model__max_features': 21, 'model__n_estimators': 300}",1.2829950188055332
+"{'model__max_features': 21, 'model__n_estimators': 310}",1.2847735516644627
+"{'model__max_features': 21, 'model__n_estimators': 320}",1.285639866493655
+"{'model__max_features': 21, 'model__n_estimators': 330}",1.2842670834809529
+"{'model__max_features': 21, 'model__n_estimators': 340}",1.283517493591761
+"{'model__max_features': 21, 'model__n_estimators': 350}",1.2832993174847276
+"{'model__max_features': 21, 'model__n_estimators': 360}",1.2842042261931088
+"{'model__max_features': 21, 'model__n_estimators': 370}",1.2861699644637212
+"{'model__max_features': 21, 'model__n_estimators': 380}",1.2870759701419794
+"{'model__max_features': 21, 'model__n_estimators': 390}",1.2873125108042909
+"{'model__max_features': 21, 'model__n_estimators': 400}",1.2873026136890908
+"{'model__max_features': 21, 'model__n_estimators': 410}",1.287027631711309
+"{'model__max_features': 21, 'model__n_estimators': 420}",1.2879093397091943
+"{'model__max_features': 21, 'model__n_estimators': 430}",1.2875607016065138
+"{'model__max_features': 21, 'model__n_estimators': 440}",1.288111702332265
+"{'model__max_features': 21, 'model__n_estimators': 450}",1.2878426480849894
+"{'model__max_features': 21, 'model__n_estimators': 460}",1.286326390405826
+"{'model__max_features': 21, 'model__n_estimators': 470}",1.286080354847093
+"{'model__max_features': 21, 'model__n_estimators': 480}",1.2853135075818942
+"{'model__max_features': 21, 'model__n_estimators': 490}",1.2852180850166268
+"{'model__max_features': 21, 'model__n_estimators': 500}",1.2861973042106198
+"{'model__max_features': 21, 'model__n_estimators': 510}",1.2866276339331886
+"{'model__max_features': 21, 'model__n_estimators': 520}",1.2864207108983274
+"{'model__max_features': 21, 'model__n_estimators': 530}",1.2869458299021195
+"{'model__max_features': 21, 'model__n_estimators': 540}",1.285630155668546
+"{'model__max_features': 21, 'model__n_estimators': 550}",1.2853994380831155
+"{'model__max_features': 21, 'model__n_estimators': 560}",1.2851514440120761
+"{'model__max_features': 21, 'model__n_estimators': 570}",1.2847154130437433
+"{'model__max_features': 21, 'model__n_estimators': 580}",1.2848485132702068
+"{'model__max_features': 21, 'model__n_estimators': 590}",1.2848160332705565
+"{'model__max_features': 21, 'model__n_estimators': 600}",1.283756478276448
+"{'model__max_features': 21, 'model__n_estimators': 610}",1.2849334636947398
+"{'model__max_features': 21, 'model__n_estimators': 620}",1.2843677067473884
+"{'model__max_features': 21, 'model__n_estimators': 630}",1.283972772365517
+"{'model__max_features': 21, 'model__n_estimators': 640}",1.2832719322742014
+"{'model__max_features': 21, 'model__n_estimators': 650}",1.2833481696043487
+"{'model__max_features': 21, 'model__n_estimators': 660}",1.2836514458715524
+"{'model__max_features': 21, 'model__n_estimators': 670}",1.284182013647867
+"{'model__max_features': 21, 'model__n_estimators': 680}",1.284356029878618
+"{'model__max_features': 21, 'model__n_estimators': 690}",1.2842083993468245
+"{'model__max_features': 21, 'model__n_estimators': 700}",1.2845147332065294
+"{'model__max_features': 21, 'model__n_estimators': 710}",1.283699584517811
+"{'model__max_features': 21, 'model__n_estimators': 720}",1.2835761861896406
+"{'model__max_features': 21, 'model__n_estimators': 730}",1.2836643346059171
+"{'model__max_features': 21, 'model__n_estimators': 740}",1.2832863957511944
+"{'model__max_features': 21, 'model__n_estimators': 750}",1.2828839596089028
+"{'model__max_features': 21, 'model__n_estimators': 760}",1.2831945708018577
+"{'model__max_features': 21, 'model__n_estimators': 770}",1.2830218698992277
+"{'model__max_features': 21, 'model__n_estimators': 780}",1.282343623607999
+"{'model__max_features': 21, 'model__n_estimators': 790}",1.2827289275917575
+"{'model__max_features': 21, 'model__n_estimators': 800}",1.2833235658547373
+"{'model__max_features': 21, 'model__n_estimators': 810}",1.283474965642167
+"{'model__max_features': 21, 'model__n_estimators': 820}",1.2831751586046793
+"{'model__max_features': 21, 'model__n_estimators': 830}",1.283165313245654
+"{'model__max_features': 21, 'model__n_estimators': 840}",1.2835396119822298
+"{'model__max_features': 21, 'model__n_estimators': 850}",1.283635557083213
+"{'model__max_features': 21, 'model__n_estimators': 860}",1.2829499400821291
+"{'model__max_features': 21, 'model__n_estimators': 870}",1.2836356432290843
+"{'model__max_features': 21, 'model__n_estimators': 880}",1.2832226867568788
+"{'model__max_features': 21, 'model__n_estimators': 890}",1.2836130898482037
+"{'model__max_features': 21, 'model__n_estimators': 900}",1.2834259622059654
+"{'model__max_features': 21, 'model__n_estimators': 910}",1.2829823959242304
+"{'model__max_features': 21, 'model__n_estimators': 920}",1.2826976687541496
+"{'model__max_features': 21, 'model__n_estimators': 930}",1.282850755828949
+"{'model__max_features': 21, 'model__n_estimators': 940}",1.2828652749801528
+"{'model__max_features': 21, 'model__n_estimators': 950}",1.2827745856020165
+"{'model__max_features': 21, 'model__n_estimators': 960}",1.2826755188131476
+"{'model__max_features': 21, 'model__n_estimators': 970}",1.2825787417553798
+"{'model__max_features': 21, 'model__n_estimators': 980}",1.2823957898852378
+"{'model__max_features': 21, 'model__n_estimators': 990}",1.2825718764522316
+"{'model__max_features': 21, 'model__n_estimators': 1000}",1.2824082293570815
+"{'model__max_features': 10, 'model__n_estimators': 10}",1.4277658194492884
+"{'model__max_features': 10, 'model__n_estimators': 20}",1.3530450533668583
+"{'model__max_features': 10, 'model__n_estimators': 30}",1.320576548985228
+"{'model__max_features': 10, 'model__n_estimators': 40}",1.312803778084286
+"{'model__max_features': 10, 'model__n_estimators': 50}",1.3037995831618134
+"{'model__max_features': 10, 'model__n_estimators': 60}",1.3006489968060595
+"{'model__max_features': 10, 'model__n_estimators': 70}",1.302703370724805
+"{'model__max_features': 10, 'model__n_estimators': 80}",1.3021332572971018
+"{'model__max_features': 10, 'model__n_estimators': 90}",1.2926759978561462
+"{'model__max_features': 10, 'model__n_estimators': 100}",1.296113348083785
+"{'model__max_features': 10, 'model__n_estimators': 110}",1.2926360117396791
+"{'model__max_features': 10, 'model__n_estimators': 120}",1.2913011367770686
+"{'model__max_features': 10, 'model__n_estimators': 130}",1.291067081996799
+"{'model__max_features': 10, 'model__n_estimators': 140}",1.2856121754158563
+"{'model__max_features': 10, 'model__n_estimators': 150}",1.2853170372306137
+"{'model__max_features': 10, 'model__n_estimators': 160}",1.2863953663002825
+"{'model__max_features': 10, 'model__n_estimators': 170}",1.2841635239167084
+"{'model__max_features': 10, 'model__n_estimators': 180}",1.2819951063059996
+"{'model__max_features': 10, 'model__n_estimators': 190}",1.283798437601537
+"{'model__max_features': 10, 'model__n_estimators': 200}",1.281170994932101
+"{'model__max_features': 10, 'model__n_estimators': 210}",1.2803497236618038
+"{'model__max_features': 10, 'model__n_estimators': 220}",1.279014246496213
+"{'model__max_features': 10, 'model__n_estimators': 230}",1.2788743784784542
+"{'model__max_features': 10, 'model__n_estimators': 240}",1.2811692302826736
+"{'model__max_features': 10, 'model__n_estimators': 250}",1.2806686995878447
+"{'model__max_features': 10, 'model__n_estimators': 260}",1.281174290826055
+"{'model__max_features': 10, 'model__n_estimators': 270}",1.2803550055103208
+"{'model__max_features': 10, 'model__n_estimators': 280}",1.2798798430245437
+"{'model__max_features': 10, 'model__n_estimators': 290}",1.2782185973374705
+"{'model__max_features': 10, 'model__n_estimators': 300}",1.277150957530085
+"{'model__max_features': 10, 'model__n_estimators': 310}",1.2772027428753772
+"{'model__max_features': 10, 'model__n_estimators': 320}",1.2755770721542168
+"{'model__max_features': 10, 'model__n_estimators': 330}",1.2768754139735592
+"{'model__max_features': 10, 'model__n_estimators': 340}",1.2783122929158461
+"{'model__max_features': 10, 'model__n_estimators': 350}",1.2780417574455616
+"{'model__max_features': 10, 'model__n_estimators': 360}",1.2787281964833914
+"{'model__max_features': 10, 'model__n_estimators': 370}",1.2778491269970365
+"{'model__max_features': 10, 'model__n_estimators': 380}",1.278727762449042
+"{'model__max_features': 10, 'model__n_estimators': 390}",1.2798015175486728
+"{'model__max_features': 10, 'model__n_estimators': 400}",1.2793824656940047
+"{'model__max_features': 10, 'model__n_estimators': 410}",1.2801979396767407
+"{'model__max_features': 10, 'model__n_estimators': 420}",1.280593669230466
+"{'model__max_features': 10, 'model__n_estimators': 430}",1.2798366029786743
+"{'model__max_features': 10, 'model__n_estimators': 440}",1.2797592067488253
+"{'model__max_features': 10, 'model__n_estimators': 450}",1.2800041012263577
+"{'model__max_features': 10, 'model__n_estimators': 460}",1.280318388828462
+"{'model__max_features': 10, 'model__n_estimators': 470}",1.2803165177589335
+"{'model__max_features': 10, 'model__n_estimators': 480}",1.280124250290423
+"{'model__max_features': 10, 'model__n_estimators': 490}",1.2797664537499138
+"{'model__max_features': 10, 'model__n_estimators': 500}",1.2804592855203063
+"{'model__max_features': 10, 'model__n_estimators': 510}",1.2794170464160166
+"{'model__max_features': 10, 'model__n_estimators': 520}",1.2778023186846703
+"{'model__max_features': 10, 'model__n_estimators': 530}",1.2786256635718922
+"{'model__max_features': 10, 'model__n_estimators': 540}",1.2794688761925779
+"{'model__max_features': 10, 'model__n_estimators': 550}",1.279901553956879
+"{'model__max_features': 10, 'model__n_estimators': 560}",1.279876115592632
+"{'model__max_features': 10, 'model__n_estimators': 570}",1.2796593215473662
+"{'model__max_features': 10, 'model__n_estimators': 580}",1.279260060110615
+"{'model__max_features': 10, 'model__n_estimators': 590}",1.2801135832736166
+"{'model__max_features': 10, 'model__n_estimators': 600}",1.280213615492662
+"{'model__max_features': 10, 'model__n_estimators': 610}",1.280815923575932
+"{'model__max_features': 10, 'model__n_estimators': 620}",1.2805377888375589
+"{'model__max_features': 10, 'model__n_estimators': 630}",1.279572974886389
+"{'model__max_features': 10, 'model__n_estimators': 640}",1.2796031161268004
+"{'model__max_features': 10, 'model__n_estimators': 650}",1.279404119090481
+"{'model__max_features': 10, 'model__n_estimators': 660}",1.2790384178121346
+"{'model__max_features': 10, 'model__n_estimators': 670}",1.2791776111610835
+"{'model__max_features': 10, 'model__n_estimators': 680}",1.2791004285532046
+"{'model__max_features': 10, 'model__n_estimators': 690}",1.2783283102422247
+"{'model__max_features': 10, 'model__n_estimators': 700}",1.278226971977493
+"{'model__max_features': 10, 'model__n_estimators': 710}",1.277984294679924
+"{'model__max_features': 10, 'model__n_estimators': 720}",1.278496019733615
+"{'model__max_features': 10, 'model__n_estimators': 730}",1.2782801677008493
+"{'model__max_features': 10, 'model__n_estimators': 740}",1.2779491639313547
+"{'model__max_features': 10, 'model__n_estimators': 750}",1.2787804733680872
+"{'model__max_features': 10, 'model__n_estimators': 760}",1.2786617390187507
+"{'model__max_features': 10, 'model__n_estimators': 770}",1.279190869105939
+"{'model__max_features': 10, 'model__n_estimators': 780}",1.2788659953467592
+"{'model__max_features': 10, 'model__n_estimators': 790}",1.2794318273564127
+"{'model__max_features': 10, 'model__n_estimators': 800}",1.2787160492540512
+"{'model__max_features': 10, 'model__n_estimators': 810}",1.2794981412689774
+"{'model__max_features': 10, 'model__n_estimators': 820}",1.2788639703702602
+"{'model__max_features': 10, 'model__n_estimators': 830}",1.2782365931200192
+"{'model__max_features': 10, 'model__n_estimators': 840}",1.2779002550202523
+"{'model__max_features': 10, 'model__n_estimators': 850}",1.2782358458831211
+"{'model__max_features': 10, 'model__n_estimators': 860}",1.2777912611703002
+"{'model__max_features': 10, 'model__n_estimators': 870}",1.277315700604772
+"{'model__max_features': 10, 'model__n_estimators': 880}",1.2771410078095538
+"{'model__max_features': 10, 'model__n_estimators': 890}",1.2767390753024896
+"{'model__max_features': 10, 'model__n_estimators': 900}",1.2760627013553898
+"{'model__max_features': 10, 'model__n_estimators': 910}",1.2758329769519157
+"{'model__max_features': 10, 'model__n_estimators': 920}",1.275473376999461
+"{'model__max_features': 10, 'model__n_estimators': 930}",1.2757705685545895
+"{'model__max_features': 10, 'model__n_estimators': 940}",1.2758195271408448
+"{'model__max_features': 10, 'model__n_estimators': 950}",1.275995338830309
+"{'model__max_features': 10, 'model__n_estimators': 960}",1.2755033579700734
+"{'model__max_features': 10, 'model__n_estimators': 970}",1.2754679357085148
+"{'model__max_features': 10, 'model__n_estimators': 980}",1.27545935336393
+"{'model__max_features': 10, 'model__n_estimators': 990}",1.2756937233473304
+"{'model__max_features': 10, 'model__n_estimators': 1000}",1.275859293270451
+"{'model__max_features': 7, 'model__n_estimators': 10}",1.5082738793003234
+"{'model__max_features': 7, 'model__n_estimators': 20}",1.4100698011758674
+"{'model__max_features': 7, 'model__n_estimators': 30}",1.3848129171183594
+"{'model__max_features': 7, 'model__n_estimators': 40}",1.3729853563409995
+"{'model__max_features': 7, 'model__n_estimators': 50}",1.3518800518636507
+"{'model__max_features': 7, 'model__n_estimators': 60}",1.3447426754154763
+"{'model__max_features': 7, 'model__n_estimators': 70}",1.335467247771543
+"{'model__max_features': 7, 'model__n_estimators': 80}",1.3349442161046943
+"{'model__max_features': 7, 'model__n_estimators': 90}",1.3337025867637478
+"{'model__max_features': 7, 'model__n_estimators': 100}",1.3333451346860143
+"{'model__max_features': 7, 'model__n_estimators': 110}",1.3321840274382526
+"{'model__max_features': 7, 'model__n_estimators': 120}",1.328102906795014
+"{'model__max_features': 7, 'model__n_estimators': 130}",1.3269057822554775
+"{'model__max_features': 7, 'model__n_estimators': 140}",1.323803249175852
+"{'model__max_features': 7, 'model__n_estimators': 150}",1.3231790438217892
+"{'model__max_features': 7, 'model__n_estimators': 160}",1.3243945349804016
+"{'model__max_features': 7, 'model__n_estimators': 170}",1.324009947056574
+"{'model__max_features': 7, 'model__n_estimators': 180}",1.3225843301180555
+"{'model__max_features': 7, 'model__n_estimators': 190}",1.3187241870495887
+"{'model__max_features': 7, 'model__n_estimators': 200}",1.3168680414946128
+"{'model__max_features': 7, 'model__n_estimators': 210}",1.3177074636321402
+"{'model__max_features': 7, 'model__n_estimators': 220}",1.3195744766910444
+"{'model__max_features': 7, 'model__n_estimators': 230}",1.321945765115463
+"{'model__max_features': 7, 'model__n_estimators': 240}",1.322209588193897
+"{'model__max_features': 7, 'model__n_estimators': 250}",1.3200894721304564
+"{'model__max_features': 7, 'model__n_estimators': 260}",1.3202031357683373
+"{'model__max_features': 7, 'model__n_estimators': 270}",1.3202121053871059
+"{'model__max_features': 7, 'model__n_estimators': 280}",1.32066675045395
+"{'model__max_features': 7, 'model__n_estimators': 290}",1.3203992191706435
+"{'model__max_features': 7, 'model__n_estimators': 300}",1.3198816703686203
+"{'model__max_features': 7, 'model__n_estimators': 310}",1.3182661599662024
+"{'model__max_features': 7, 'model__n_estimators': 320}",1.3163257763478753
+"{'model__max_features': 7, 'model__n_estimators': 330}",1.3168270508955648
+"{'model__max_features': 7, 'model__n_estimators': 340}",1.3169583430665415
+"{'model__max_features': 7, 'model__n_estimators': 350}",1.3174029672617498
+"{'model__max_features': 7, 'model__n_estimators': 360}",1.319334944223899
+"{'model__max_features': 7, 'model__n_estimators': 370}",1.3186497621060134
+"{'model__max_features': 7, 'model__n_estimators': 380}",1.319247997159972
+"{'model__max_features': 7, 'model__n_estimators': 390}",1.320737844464099
+"{'model__max_features': 7, 'model__n_estimators': 400}",1.32060991237181
+"{'model__max_features': 7, 'model__n_estimators': 410}",1.319421118090436
+"{'model__max_features': 7, 'model__n_estimators': 420}",1.3193404579643544
+"{'model__max_features': 7, 'model__n_estimators': 430}",1.3196936146444358
+"{'model__max_features': 7, 'model__n_estimators': 440}",1.3186195052483658
+"{'model__max_features': 7, 'model__n_estimators': 450}",1.3197593896027198
+"{'model__max_features': 7, 'model__n_estimators': 460}",1.3199023014012103
+"{'model__max_features': 7, 'model__n_estimators': 470}",1.318176655611955
+"{'model__max_features': 7, 'model__n_estimators': 480}",1.3177166730439087
+"{'model__max_features': 7, 'model__n_estimators': 490}",1.316985909809097
+"{'model__max_features': 7, 'model__n_estimators': 500}",1.3162477050516832
+"{'model__max_features': 7, 'model__n_estimators': 510}",1.3173040498238098
+"{'model__max_features': 7, 'model__n_estimators': 520}",1.3178824483064324
+"{'model__max_features': 7, 'model__n_estimators': 530}",1.318232993495536
+"{'model__max_features': 7, 'model__n_estimators': 540}",1.3182110792266915
+"{'model__max_features': 7, 'model__n_estimators': 550}",1.3193294535724813
+"{'model__max_features': 7, 'model__n_estimators': 560}",1.319080412742514
+"{'model__max_features': 7, 'model__n_estimators': 570}",1.3192321685856394
+"{'model__max_features': 7, 'model__n_estimators': 580}",1.3195293217792956
+"{'model__max_features': 7, 'model__n_estimators': 590}",1.3188387635259609
+"{'model__max_features': 7, 'model__n_estimators': 600}",1.319229515684403
+"{'model__max_features': 7, 'model__n_estimators': 610}",1.319660364082244
+"{'model__max_features': 7, 'model__n_estimators': 620}",1.3195934012982187
+"{'model__max_features': 7, 'model__n_estimators': 630}",1.3182916086924028
+"{'model__max_features': 7, 'model__n_estimators': 640}",1.3181558341377948
+"{'model__max_features': 7, 'model__n_estimators': 650}",1.3186123589791585
+"{'model__max_features': 7, 'model__n_estimators': 660}",1.3187658443771766
+"{'model__max_features': 7, 'model__n_estimators': 670}",1.3194939973609705
+"{'model__max_features': 7, 'model__n_estimators': 680}",1.3188998929868951
+"{'model__max_features': 7, 'model__n_estimators': 690}",1.3187194501316843
+"{'model__max_features': 7, 'model__n_estimators': 700}",1.3190465073256539
+"{'model__max_features': 7, 'model__n_estimators': 710}",1.3178016674079915
+"{'model__max_features': 7, 'model__n_estimators': 720}",1.318620940326304
+"{'model__max_features': 7, 'model__n_estimators': 730}",1.3183872232972156
+"{'model__max_features': 7, 'model__n_estimators': 740}",1.318107594443221
+"{'model__max_features': 7, 'model__n_estimators': 750}",1.3175597439603601
+"{'model__max_features': 7, 'model__n_estimators': 760}",1.317918942788212
+"{'model__max_features': 7, 'model__n_estimators': 770}",1.3182990158668333
+"{'model__max_features': 7, 'model__n_estimators': 780}",1.3184001893515909
+"{'model__max_features': 7, 'model__n_estimators': 790}",1.3183504951915155
+"{'model__max_features': 7, 'model__n_estimators': 800}",1.3184896174813552
+"{'model__max_features': 7, 'model__n_estimators': 810}",1.318333080174007
+"{'model__max_features': 7, 'model__n_estimators': 820}",1.3170785542694226
+"{'model__max_features': 7, 'model__n_estimators': 830}",1.317187946608197
+"{'model__max_features': 7, 'model__n_estimators': 840}",1.3165095335626291
+"{'model__max_features': 7, 'model__n_estimators': 850}",1.3162756816214407
+"{'model__max_features': 7, 'model__n_estimators': 860}",1.3164985825479216
+"{'model__max_features': 7, 'model__n_estimators': 870}",1.3160543301288414
+"{'model__max_features': 7, 'model__n_estimators': 880}",1.3155162345050246
+"{'model__max_features': 7, 'model__n_estimators': 890}",1.315298204398545
+"{'model__max_features': 7, 'model__n_estimators': 900}",1.3155550392483646
+"{'model__max_features': 7, 'model__n_estimators': 910}",1.3157718760998776
+"{'model__max_features': 7, 'model__n_estimators': 920}",1.3152512643724374
+"{'model__max_features': 7, 'model__n_estimators': 930}",1.3153072807350779
+"{'model__max_features': 7, 'model__n_estimators': 940}",1.3153814454789168
+"{'model__max_features': 7, 'model__n_estimators': 950}",1.3152633278485968
+"{'model__max_features': 7, 'model__n_estimators': 960}",1.3143888201934413
+"{'model__max_features': 7, 'model__n_estimators': 970}",1.3148590695856355
+"{'model__max_features': 7, 'model__n_estimators': 980}",1.315049549222794
+"{'model__max_features': 7, 'model__n_estimators': 990}",1.3152443122328845
+"{'model__max_features': 7, 'model__n_estimators': 1000}",1.3153504508931753
+"{'model__max_features': 'sqrt', 'model__n_estimators': 10}",1.580028799925304
+"{'model__max_features': 'sqrt', 'model__n_estimators': 20}",1.505409088276833
+"{'model__max_features': 'sqrt', 'model__n_estimators': 30}",1.4890787828853373
+"{'model__max_features': 'sqrt', 'model__n_estimators': 40}",1.4781973798929677
+"{'model__max_features': 'sqrt', 'model__n_estimators': 50}",1.4662739468463466
+"{'model__max_features': 'sqrt', 'model__n_estimators': 60}",1.4562885611841676
+"{'model__max_features': 'sqrt', 'model__n_estimators': 70}",1.4496999839216207
+"{'model__max_features': 'sqrt', 'model__n_estimators': 80}",1.4432536166053676
+"{'model__max_features': 'sqrt', 'model__n_estimators': 90}",1.4425723607007943
+"{'model__max_features': 'sqrt', 'model__n_estimators': 100}",1.44716948807923
+"{'model__max_features': 'sqrt', 'model__n_estimators': 110}",1.4441015202873884
+"{'model__max_features': 'sqrt', 'model__n_estimators': 120}",1.4409328698714698
+"{'model__max_features': 'sqrt', 'model__n_estimators': 130}",1.4361444824266365
+"{'model__max_features': 'sqrt', 'model__n_estimators': 140}",1.4406063591300247
+"{'model__max_features': 'sqrt', 'model__n_estimators': 150}",1.4373546291035892
+"{'model__max_features': 'sqrt', 'model__n_estimators': 160}",1.4369961344706736
+"{'model__max_features': 'sqrt', 'model__n_estimators': 170}",1.435416925971086
+"{'model__max_features': 'sqrt', 'model__n_estimators': 180}",1.4339485354675259
+"{'model__max_features': 'sqrt', 'model__n_estimators': 190}",1.4347947465532749
+"{'model__max_features': 'sqrt', 'model__n_estimators': 200}",1.4336632388772168
+"{'model__max_features': 'sqrt', 'model__n_estimators': 210}",1.4336134858107663
+"{'model__max_features': 'sqrt', 'model__n_estimators': 220}",1.4347493472531925
+"{'model__max_features': 'sqrt', 'model__n_estimators': 230}",1.430687291492316
+"{'model__max_features': 'sqrt', 'model__n_estimators': 240}",1.4336964856806145
+"{'model__max_features': 'sqrt', 'model__n_estimators': 250}",1.4307999284728634
+"{'model__max_features': 'sqrt', 'model__n_estimators': 260}",1.4284143435766141
+"{'model__max_features': 'sqrt', 'model__n_estimators': 270}",1.4288567065717965
+"{'model__max_features': 'sqrt', 'model__n_estimators': 280}",1.4284093762313859
+"{'model__max_features': 'sqrt', 'model__n_estimators': 290}",1.4283915733942572
+"{'model__max_features': 'sqrt', 'model__n_estimators': 300}",1.4244968580336217
+"{'model__max_features': 'sqrt', 'model__n_estimators': 310}",1.4264186927028428
+"{'model__max_features': 'sqrt', 'model__n_estimators': 320}",1.4263597185377048
+"{'model__max_features': 'sqrt', 'model__n_estimators': 330}",1.4254836308792633
+"{'model__max_features': 'sqrt', 'model__n_estimators': 340}",1.424703987108538
+"{'model__max_features': 'sqrt', 'model__n_estimators': 350}",1.4229130371350687
+"{'model__max_features': 'sqrt', 'model__n_estimators': 360}",1.4224710225676094
+"{'model__max_features': 'sqrt', 'model__n_estimators': 370}",1.422659724021965
+"{'model__max_features': 'sqrt', 'model__n_estimators': 380}",1.4253536584076056
+"{'model__max_features': 'sqrt', 'model__n_estimators': 390}",1.4260568196664634
+"{'model__max_features': 'sqrt', 'model__n_estimators': 400}",1.425522239821592
+"{'model__max_features': 'sqrt', 'model__n_estimators': 410}",1.4256212284649081
+"{'model__max_features': 'sqrt', 'model__n_estimators': 420}",1.4253862059945674
+"{'model__max_features': 'sqrt', 'model__n_estimators': 430}",1.425073319086077
+"{'model__max_features': 'sqrt', 'model__n_estimators': 440}",1.424689419208765
+"{'model__max_features': 'sqrt', 'model__n_estimators': 450}",1.4258446733830095
+"{'model__max_features': 'sqrt', 'model__n_estimators': 460}",1.4263101456330523
+"{'model__max_features': 'sqrt', 'model__n_estimators': 470}",1.42778769596449
+"{'model__max_features': 'sqrt', 'model__n_estimators': 480}",1.4287185300514267
+"{'model__max_features': 'sqrt', 'model__n_estimators': 490}",1.4279906328280882
+"{'model__max_features': 'sqrt', 'model__n_estimators': 500}",1.4292709583727505
+"{'model__max_features': 'sqrt', 'model__n_estimators': 510}",1.4276989706219785
+"{'model__max_features': 'sqrt', 'model__n_estimators': 520}",1.4275599136431416
+"{'model__max_features': 'sqrt', 'model__n_estimators': 530}",1.4271569936002602
+"{'model__max_features': 'sqrt', 'model__n_estimators': 540}",1.4270889939268845
+"{'model__max_features': 'sqrt', 'model__n_estimators': 550}",1.4283360431002923
+"{'model__max_features': 'sqrt', 'model__n_estimators': 560}",1.4269243215241716
+"{'model__max_features': 'sqrt', 'model__n_estimators': 570}",1.425833827866188
+"{'model__max_features': 'sqrt', 'model__n_estimators': 580}",1.425713125655842
+"{'model__max_features': 'sqrt', 'model__n_estimators': 590}",1.425654750243278
+"{'model__max_features': 'sqrt', 'model__n_estimators': 600}",1.4256038917791929
+"{'model__max_features': 'sqrt', 'model__n_estimators': 610}",1.4270233771560696
+"{'model__max_features': 'sqrt', 'model__n_estimators': 620}",1.428024340047572
+"{'model__max_features': 'sqrt', 'model__n_estimators': 630}",1.4284556640353816
+"{'model__max_features': 'sqrt', 'model__n_estimators': 640}",1.428851538349019
+"{'model__max_features': 'sqrt', 'model__n_estimators': 650}",1.4287607219792557
+"{'model__max_features': 'sqrt', 'model__n_estimators': 660}",1.4293222211471421
+"{'model__max_features': 'sqrt', 'model__n_estimators': 670}",1.430602785720529
+"{'model__max_features': 'sqrt', 'model__n_estimators': 680}",1.4307903276530864
+"{'model__max_features': 'sqrt', 'model__n_estimators': 690}",1.4296552897690369
+"{'model__max_features': 'sqrt', 'model__n_estimators': 700}",1.4299179025700628
+"{'model__max_features': 'sqrt', 'model__n_estimators': 710}",1.43034143616658
+"{'model__max_features': 'sqrt', 'model__n_estimators': 720}",1.4311023017936757
+"{'model__max_features': 'sqrt', 'model__n_estimators': 730}",1.4316966429592808
+"{'model__max_features': 'sqrt', 'model__n_estimators': 740}",1.43116788421569
+"{'model__max_features': 'sqrt', 'model__n_estimators': 750}",1.430142209892158
+"{'model__max_features': 'sqrt', 'model__n_estimators': 760}",1.4306937778755422
+"{'model__max_features': 'sqrt', 'model__n_estimators': 770}",1.4304192404654716
+"{'model__max_features': 'sqrt', 'model__n_estimators': 780}",1.4306483227377689
+"{'model__max_features': 'sqrt', 'model__n_estimators': 790}",1.429983250472479
+"{'model__max_features': 'sqrt', 'model__n_estimators': 800}",1.4285011468644018
+"{'model__max_features': 'sqrt', 'model__n_estimators': 810}",1.4289824332574899
+"{'model__max_features': 'sqrt', 'model__n_estimators': 820}",1.4289114188241285
+"{'model__max_features': 'sqrt', 'model__n_estimators': 830}",1.4296809920344478
+"{'model__max_features': 'sqrt', 'model__n_estimators': 840}",1.4292187613149396
+"{'model__max_features': 'sqrt', 'model__n_estimators': 850}",1.4284308411758306
+"{'model__max_features': 'sqrt', 'model__n_estimators': 860}",1.427521773642191
+"{'model__max_features': 'sqrt', 'model__n_estimators': 870}",1.4276924726606872
+"{'model__max_features': 'sqrt', 'model__n_estimators': 880}",1.4272023778776037
+"{'model__max_features': 'sqrt', 'model__n_estimators': 890}",1.4269727894801103
+"{'model__max_features': 'sqrt', 'model__n_estimators': 900}",1.4276992125358852
+"{'model__max_features': 'sqrt', 'model__n_estimators': 910}",1.427124872707794
+"{'model__max_features': 'sqrt', 'model__n_estimators': 920}",1.4268714614033735
+"{'model__max_features': 'sqrt', 'model__n_estimators': 930}",1.425742765420272
+"{'model__max_features': 'sqrt', 'model__n_estimators': 940}",1.4254787318513311
+"{'model__max_features': 'sqrt', 'model__n_estimators': 950}",1.426121847978179
+"{'model__max_features': 'sqrt', 'model__n_estimators': 960}",1.4262640759690786
+"{'model__max_features': 'sqrt', 'model__n_estimators': 970}",1.4265403098302696
+"{'model__max_features': 'sqrt', 'model__n_estimators': 980}",1.4269997716856744
+"{'model__max_features': 'sqrt', 'model__n_estimators': 990}",1.4268597377059453
+"{'model__max_features': 'sqrt', 'model__n_estimators': 1000}",1.4271368948771546
+"{'model__max_features': 'log2', 'model__n_estimators': 10}",1.580028799925304
+"{'model__max_features': 'log2', 'model__n_estimators': 20}",1.505409088276833
+"{'model__max_features': 'log2', 'model__n_estimators': 30}",1.4890787828853373
+"{'model__max_features': 'log2', 'model__n_estimators': 40}",1.4781973798929677
+"{'model__max_features': 'log2', 'model__n_estimators': 50}",1.4662739468463466
+"{'model__max_features': 'log2', 'model__n_estimators': 60}",1.4562885611841676
+"{'model__max_features': 'log2', 'model__n_estimators': 70}",1.4496999839216207
+"{'model__max_features': 'log2', 'model__n_estimators': 80}",1.4432536166053676
+"{'model__max_features': 'log2', 'model__n_estimators': 90}",1.4425723607007943
+"{'model__max_features': 'log2', 'model__n_estimators': 100}",1.44716948807923
+"{'model__max_features': 'log2', 'model__n_estimators': 110}",1.4441015202873884
+"{'model__max_features': 'log2', 'model__n_estimators': 120}",1.4409328698714698
+"{'model__max_features': 'log2', 'model__n_estimators': 130}",1.4361444824266365
+"{'model__max_features': 'log2', 'model__n_estimators': 140}",1.4406063591300247
+"{'model__max_features': 'log2', 'model__n_estimators': 150}",1.4373546291035892
+"{'model__max_features': 'log2', 'model__n_estimators': 160}",1.4369961344706736
+"{'model__max_features': 'log2', 'model__n_estimators': 170}",1.435416925971086
+"{'model__max_features': 'log2', 'model__n_estimators': 180}",1.4339485354675259
+"{'model__max_features': 'log2', 'model__n_estimators': 190}",1.4347947465532749
+"{'model__max_features': 'log2', 'model__n_estimators': 200}",1.4336632388772168
+"{'model__max_features': 'log2', 'model__n_estimators': 210}",1.4336134858107663
+"{'model__max_features': 'log2', 'model__n_estimators': 220}",1.4347493472531925
+"{'model__max_features': 'log2', 'model__n_estimators': 230}",1.430687291492316
+"{'model__max_features': 'log2', 'model__n_estimators': 240}",1.4336964856806145
+"{'model__max_features': 'log2', 'model__n_estimators': 250}",1.4307999284728634
+"{'model__max_features': 'log2', 'model__n_estimators': 260}",1.4284143435766141
+"{'model__max_features': 'log2', 'model__n_estimators': 270}",1.4288567065717965
+"{'model__max_features': 'log2', 'model__n_estimators': 280}",1.4284093762313859
+"{'model__max_features': 'log2', 'model__n_estimators': 290}",1.4283915733942572
+"{'model__max_features': 'log2', 'model__n_estimators': 300}",1.4244968580336217
+"{'model__max_features': 'log2', 'model__n_estimators': 310}",1.4264186927028428
+"{'model__max_features': 'log2', 'model__n_estimators': 320}",1.4263597185377048
+"{'model__max_features': 'log2', 'model__n_estimators': 330}",1.4254836308792633
+"{'model__max_features': 'log2', 'model__n_estimators': 340}",1.424703987108538
+"{'model__max_features': 'log2', 'model__n_estimators': 350}",1.4229130371350687
+"{'model__max_features': 'log2', 'model__n_estimators': 360}",1.4224710225676094
+"{'model__max_features': 'log2', 'model__n_estimators': 370}",1.422659724021965
+"{'model__max_features': 'log2', 'model__n_estimators': 380}",1.4253536584076056
+"{'model__max_features': 'log2', 'model__n_estimators': 390}",1.4260568196664634
+"{'model__max_features': 'log2', 'model__n_estimators': 400}",1.425522239821592
+"{'model__max_features': 'log2', 'model__n_estimators': 410}",1.4256212284649081
+"{'model__max_features': 'log2', 'model__n_estimators': 420}",1.4253862059945674
+"{'model__max_features': 'log2', 'model__n_estimators': 430}",1.425073319086077
+"{'model__max_features': 'log2', 'model__n_estimators': 440}",1.424689419208765
+"{'model__max_features': 'log2', 'model__n_estimators': 450}",1.4258446733830095
+"{'model__max_features': 'log2', 'model__n_estimators': 460}",1.4263101456330523
+"{'model__max_features': 'log2', 'model__n_estimators': 470}",1.42778769596449
+"{'model__max_features': 'log2', 'model__n_estimators': 480}",1.4287185300514267
+"{'model__max_features': 'log2', 'model__n_estimators': 490}",1.4279906328280882
+"{'model__max_features': 'log2', 'model__n_estimators': 500}",1.4292709583727505
+"{'model__max_features': 'log2', 'model__n_estimators': 510}",1.4276989706219785
+"{'model__max_features': 'log2', 'model__n_estimators': 520}",1.4275599136431416
+"{'model__max_features': 'log2', 'model__n_estimators': 530}",1.4271569936002602
+"{'model__max_features': 'log2', 'model__n_estimators': 540}",1.4270889939268845
+"{'model__max_features': 'log2', 'model__n_estimators': 550}",1.4283360431002923
+"{'model__max_features': 'log2', 'model__n_estimators': 560}",1.4269243215241716
+"{'model__max_features': 'log2', 'model__n_estimators': 570}",1.425833827866188
+"{'model__max_features': 'log2', 'model__n_estimators': 580}",1.425713125655842
+"{'model__max_features': 'log2', 'model__n_estimators': 590}",1.425654750243278
+"{'model__max_features': 'log2', 'model__n_estimators': 600}",1.4256038917791929
+"{'model__max_features': 'log2', 'model__n_estimators': 610}",1.4270233771560696
+"{'model__max_features': 'log2', 'model__n_estimators': 620}",1.428024340047572
+"{'model__max_features': 'log2', 'model__n_estimators': 630}",1.4284556640353816
+"{'model__max_features': 'log2', 'model__n_estimators': 640}",1.428851538349019
+"{'model__max_features': 'log2', 'model__n_estimators': 650}",1.4287607219792557
+"{'model__max_features': 'log2', 'model__n_estimators': 660}",1.4293222211471421
+"{'model__max_features': 'log2', 'model__n_estimators': 670}",1.430602785720529
+"{'model__max_features': 'log2', 'model__n_estimators': 680}",1.4307903276530864
+"{'model__max_features': 'log2', 'model__n_estimators': 690}",1.4296552897690369
+"{'model__max_features': 'log2', 'model__n_estimators': 700}",1.4299179025700628
+"{'model__max_features': 'log2', 'model__n_estimators': 710}",1.43034143616658
+"{'model__max_features': 'log2', 'model__n_estimators': 720}",1.4311023017936757
+"{'model__max_features': 'log2', 'model__n_estimators': 730}",1.4316966429592808
+"{'model__max_features': 'log2', 'model__n_estimators': 740}",1.43116788421569
+"{'model__max_features': 'log2', 'model__n_estimators': 750}",1.430142209892158
+"{'model__max_features': 'log2', 'model__n_estimators': 760}",1.4306937778755422
+"{'model__max_features': 'log2', 'model__n_estimators': 770}",1.4304192404654716
+"{'model__max_features': 'log2', 'model__n_estimators': 780}",1.4306483227377689
+"{'model__max_features': 'log2', 'model__n_estimators': 790}",1.429983250472479
+"{'model__max_features': 'log2', 'model__n_estimators': 800}",1.4285011468644018
+"{'model__max_features': 'log2', 'model__n_estimators': 810}",1.4289824332574899
+"{'model__max_features': 'log2', 'model__n_estimators': 820}",1.4289114188241285
+"{'model__max_features': 'log2', 'model__n_estimators': 830}",1.4296809920344478
+"{'model__max_features': 'log2', 'model__n_estimators': 840}",1.4292187613149396
+"{'model__max_features': 'log2', 'model__n_estimators': 850}",1.4284308411758306
+"{'model__max_features': 'log2', 'model__n_estimators': 860}",1.427521773642191
+"{'model__max_features': 'log2', 'model__n_estimators': 870}",1.4276924726606872
+"{'model__max_features': 'log2', 'model__n_estimators': 880}",1.4272023778776037
+"{'model__max_features': 'log2', 'model__n_estimators': 890}",1.4269727894801103
+"{'model__max_features': 'log2', 'model__n_estimators': 900}",1.4276992125358852
+"{'model__max_features': 'log2', 'model__n_estimators': 910}",1.427124872707794
+"{'model__max_features': 'log2', 'model__n_estimators': 920}",1.4268714614033735
+"{'model__max_features': 'log2', 'model__n_estimators': 930}",1.425742765420272
+"{'model__max_features': 'log2', 'model__n_estimators': 940}",1.4254787318513311
+"{'model__max_features': 'log2', 'model__n_estimators': 950}",1.426121847978179
+"{'model__max_features': 'log2', 'model__n_estimators': 960}",1.4262640759690786
+"{'model__max_features': 'log2', 'model__n_estimators': 970}",1.4265403098302696
+"{'model__max_features': 'log2', 'model__n_estimators': 980}",1.4269997716856744
+"{'model__max_features': 'log2', 'model__n_estimators': 990}",1.4268597377059453
+"{'model__max_features': 'log2', 'model__n_estimators': 1000}",1.4271368948771546
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 10}",1.8843874323038974
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 20}",1.8733841639973032
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 30}",1.8732376700007838
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 40}",1.874759316679653
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 50}",1.8749936991783178
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 60}",1.8779606233075297
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 70}",1.877272861362189
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 80}",1.8778753094549967
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 90}",1.8766503623083313
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 100}",1.87688832990667
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 110}",1.876979951734044
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 120}",1.8764120903500792
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 130}",1.875453983008513
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 140}",1.875189077754303
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 150}",1.8753061055456945
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 160}",1.874987232984104
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 170}",1.8750659480373055
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 180}",1.874315109989534
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 190}",1.8735428024400633
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 200}",1.874260248874793
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 210}",1.874241827806265
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 220}",1.8736695715855867
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 230}",1.873831053822131
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 240}",1.8738481839424408
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 250}",1.8743103752461336
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 260}",1.8742907045878079
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 270}",1.8744635492499113
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 280}",1.8745698117374112
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 290}",1.8747128717880674
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 300}",1.8746499716411502
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 310}",1.8748005605341145
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 320}",1.8752301891706107
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 330}",1.8752969297827422
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 340}",1.8758429358291209
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 350}",1.8753744401428447
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 360}",1.8754229780046745
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 370}",1.8751062396705593
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 380}",1.8747851087847474
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 390}",1.8750322649069378
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 400}",1.8749287730828998
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 410}",1.8751334417299672
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 420}",1.8746781712342013
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 430}",1.8743395616936753
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 440}",1.8744562200443855
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 450}",1.874225430231352
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 460}",1.8741548040317118
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 470}",1.8742829153575318
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 480}",1.8742191770673433
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 490}",1.8746111804807115
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 500}",1.8745604589897726
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 510}",1.8747128460208697
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 520}",1.8748510841183672
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 530}",1.8748985791364434
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 540}",1.8748983437960005
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 550}",1.874910649910757
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 560}",1.8746957676204428
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 570}",1.8748957022176105
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 580}",1.8751217374189733
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 590}",1.875225764508971
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 600}",1.87523613946406
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 610}",1.8752760066681748
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 620}",1.87534517307485
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 630}",1.8751728793796565
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 640}",1.8753642199078617
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 650}",1.8752805439554996
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 660}",1.875405247178484
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 670}",1.8756808869203654
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 680}",1.87588557085972
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 690}",1.875750122092016
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 700}",1.8756889759488133
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 710}",1.875670896939864
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 720}",1.8755725752646468
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 730}",1.875428165236308
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 740}",1.875305564254891
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 750}",1.8751017144032442
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 760}",1.8752619316399277
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 770}",1.875278648015779
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 780}",1.8754041348281831
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 790}",1.875575138118448
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 800}",1.8754956089008266
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 810}",1.8753423972727234
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 820}",1.8753890747373128
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 830}",1.87535888611758
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 840}",1.8754280234712901
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 850}",1.8753168441979124
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 860}",1.8751951870831862
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 870}",1.875277588243967
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 880}",1.875148451182693
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 890}",1.8752001711575108
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 900}",1.8750087073319226
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 910}",1.8749426241825449
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 920}",1.8750786304618212
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 930}",1.875060312300319
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 940}",1.8750299636852943
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 950}",1.875048474151209
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 960}",1.8750592383778422
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 970}",1.8750666870177397
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 980}",1.874840115788239
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 990}",1.875019065435875
+"{'model__bootstrap': False, 'model__max_features': 21, 'model__n_estimators': 1000}",1.8749305499204902
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 10}",1.4091044257532943
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 20}",1.3408853697240255
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 30}",1.3037735124928653
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 40}",1.2902863787751158
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 50}",1.2895768220306187
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 60}",1.2811603073492768
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 70}",1.2818185913155185
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 80}",1.2768695411574689
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 90}",1.2735279199528011
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 100}",1.2666659920312897
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 110}",1.2656534946044309
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 120}",1.2661538743297847
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 130}",1.267361632484904
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 140}",1.2621884437959325
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 150}",1.2666157905427757
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 160}",1.2659033603151129
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 170}",1.267525537630617
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 180}",1.2628289148291185
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 190}",1.258644959797833
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 200}",1.2589057707896547
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 210}",1.2594117964710876
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 220}",1.2582459621146431
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 230}",1.2577466130297454
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 240}",1.2568364793956983
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 250}",1.2530617466859664
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 260}",1.2513090409983914
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 270}",1.2500768914823406
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 280}",1.250088969667871
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 290}",1.2491554411525638
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 300}",1.2477853231431224
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 310}",1.2473081991304376
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 320}",1.2455209344611111
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 330}",1.2484229198220729
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 340}",1.2488942570248003
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 350}",1.2504902078694882
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 360}",1.24941131107131
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 370}",1.2492087585487746
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 380}",1.2479894106202565
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 390}",1.2471392302888704
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 400}",1.2465894260810317
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 410}",1.2464764720095276
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 420}",1.2457389686845497
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 430}",1.2458268675127941
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 440}",1.2455899126472996
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 450}",1.2459913375466585
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 460}",1.2462010103247558
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 470}",1.2453796399703496
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 480}",1.2453651425255037
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 490}",1.245237583256492
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 500}",1.2462367619987114
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 510}",1.245570492793222
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 520}",1.2455695371003936
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 530}",1.2460684663632398
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 540}",1.2457471248966547
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 550}",1.245568091026487
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 560}",1.246232170683455
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 570}",1.2461069752422231
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 580}",1.2456975945856308
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 590}",1.245815937461586
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 600}",1.245479146829375
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 610}",1.2451890803282544
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 620}",1.2443916032526532
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 630}",1.2433086706462713
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 640}",1.2425921199595955
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 650}",1.2425914326590088
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 660}",1.2424752978547826
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 670}",1.2425843319869876
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 680}",1.2421611183824126
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 690}",1.2421440571203708
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 700}",1.242259059184224
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 710}",1.2417671842015547
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 720}",1.2416512615970552
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 730}",1.2420126996782515
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 740}",1.2417756269991647
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 750}",1.2416150841325182
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 760}",1.2414797321484587
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 770}",1.2415579339842275
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 780}",1.2416125933516005
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 790}",1.2416273990654785
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 800}",1.2415972981849075
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 810}",1.2413329380280407
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 820}",1.2403405275252175
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 830}",1.240791449646793
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 840}",1.240555965330901
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 850}",1.24080973376481
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 860}",1.2407048463426615
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 870}",1.2404981777546806
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 880}",1.2406939625542528
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 890}",1.2402084007279892
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 900}",1.24048162583229
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 910}",1.24063145127854
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 920}",1.240505490940141
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 930}",1.240528809446356
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 940}",1.2408624659556329
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 950}",1.2408079191605061
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 960}",1.2406296709561007
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 970}",1.2410500005902325
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 980}",1.241084956935479
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 990}",1.240747575272111
+"{'model__bootstrap': False, 'model__max_features': 10, 'model__n_estimators': 1000}",1.2408296321709564
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 10}",1.4114100698755117
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 20}",1.3380053215944645
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 30}",1.2958132267766762
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 40}",1.2833035726437276
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 50}",1.272364957002602
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 60}",1.2628391362787639
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 70}",1.2555625934570056
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 80}",1.2549911410551111
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 90}",1.2631724335390622
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 100}",1.2594997148401805
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 110}",1.2556508540015547
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 120}",1.2560108149768496
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 130}",1.25734425003828
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 140}",1.2531151231566837
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 150}",1.2511219991257096
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 160}",1.2508440947611945
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 170}",1.253289537241709
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 180}",1.2542064592947804
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 190}",1.252869449932498
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 200}",1.2520286764278554
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 210}",1.2524948909497928
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 220}",1.2532653934880635
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 230}",1.2542053881594912
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 240}",1.2562508001177648
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 250}",1.2554119050969144
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 260}",1.2573635037138207
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 270}",1.2568041977846127
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 280}",1.2581926030474004
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 290}",1.2592066046078885
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 300}",1.2592601137940758
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 310}",1.2580432164869382
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 320}",1.2571200212948745
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 330}",1.2558709964263446
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 340}",1.254427162946633
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 350}",1.2546732698029541
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 360}",1.2570967483119218
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 370}",1.255003755862777
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 380}",1.2549937489637022
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 390}",1.256862796359913
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 400}",1.2579839036075289
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 410}",1.2581505755664708
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 420}",1.2578587533716874
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 430}",1.2594385653778357
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 440}",1.2586877680591184
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 450}",1.2592148488348083
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 460}",1.2593906664476984
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 470}",1.260573526149042
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 480}",1.2603866502982564
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 490}",1.2602187903684607
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 500}",1.2597783945550134
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 510}",1.2597511266893764
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 520}",1.2610046303068423
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 530}",1.2614140473963265
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 540}",1.261880499083353
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 550}",1.2612051789590988
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 560}",1.260259345947286
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 570}",1.2601880301414967
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 580}",1.2599824185185966
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 590}",1.2601547094145735
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 600}",1.2605454334699076
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 610}",1.2608007612954604
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 620}",1.2605703177592902
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 630}",1.2598904731052347
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 640}",1.2595791276241695
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 650}",1.2597503226823414
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 660}",1.2596312176450604
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 670}",1.2588008331674898
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 680}",1.2584155637122534
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 690}",1.2587490120829221
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 700}",1.2589774720954805
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 710}",1.258662701621875
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 720}",1.2580413030038449
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 730}",1.258307925368534
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 740}",1.2582093258086946
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 750}",1.2582363534317214
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 760}",1.2580361854557458
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 770}",1.2583228337915022
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 780}",1.258698325998799
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 790}",1.259008237984965
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 800}",1.258853049192463
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 810}",1.258832992905541
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 820}",1.2577801417683632
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 830}",1.257751773984941
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 840}",1.2583429447021859
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 850}",1.2582245165051509
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 860}",1.2588215702660803
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 870}",1.2591047063140612
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 880}",1.2586776402409166
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 890}",1.2587095870738554
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 900}",1.2586060676089759
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 910}",1.258045553796557
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 920}",1.2583223342912995
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 930}",1.2583500945209336
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 940}",1.2582006395019998
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 950}",1.2579982113058967
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 960}",1.257271591235662
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 970}",1.2576950819813528
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 980}",1.2573947386242907
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 990}",1.2580237893415525
+"{'model__bootstrap': False, 'model__max_features': 7, 'model__n_estimators': 1000}",1.2581396495846915
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 10}",1.434930110959365
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 20}",1.4112688061673322
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 30}",1.3943238354083456
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 40}",1.386254869232831
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 50}",1.3752769986355586
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 60}",1.3624763009173173
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 70}",1.3539502722515047
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 80}",1.353410806027165
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 90}",1.3519454518455007
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 100}",1.3507782382443536
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 110}",1.348585729289324
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 120}",1.349897132819314
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 130}",1.351630215876587
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 140}",1.348036588482904
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 150}",1.3451993669755427
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 160}",1.3479858215703762
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 170}",1.3502304034186525
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 180}",1.3494617768732675
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 190}",1.3514331931020194
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 200}",1.349601691379027
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 210}",1.3508939286266244
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 220}",1.3521450566606523
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 230}",1.3519294415095697
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 240}",1.3499001036836225
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 250}",1.3488793230708396
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 260}",1.3484006992363795
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 270}",1.349260252993051
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 280}",1.3490667096054505
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 290}",1.3497135624347232
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 300}",1.3465882044434905
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 310}",1.3482188776706636
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 320}",1.3469452239042066
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 330}",1.347029460054125
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 340}",1.3455697756954748
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 350}",1.3440897828801848
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 360}",1.3436960448499018
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 370}",1.3432827762053692
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 380}",1.3438539370640135
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 390}",1.3444806178974464
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 400}",1.3448321630545401
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 410}",1.3435956557598967
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 420}",1.3441306033150888
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 430}",1.343637667788842
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 440}",1.3431854273597323
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 450}",1.3436450440474574
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 460}",1.3433038893323668
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 470}",1.3442770382846434
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 480}",1.344563425626982
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 490}",1.343946557804776
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 500}",1.343762860145251
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 510}",1.3439537014024499
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 520}",1.3442013301872586
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 530}",1.3456098798891751
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 540}",1.3465235488136922
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 550}",1.34708756568058
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 560}",1.34577316433686
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 570}",1.3454001916105407
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 580}",1.3444607830836792
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 590}",1.3438194553005673
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 600}",1.3441532246586076
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 610}",1.3455987508940404
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 620}",1.3448740778857784
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 630}",1.3445181653989295
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 640}",1.343927062738573
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 650}",1.3446820496051772
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 660}",1.34367232328498
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 670}",1.3434234732516388
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 680}",1.343542545252863
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 690}",1.3431394667306544
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 700}",1.343719689429473
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 710}",1.3441224823397226
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 720}",1.3445123300185302
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 730}",1.3451416885003913
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 740}",1.345458411845914
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 750}",1.3454323177942982
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 760}",1.3449964759049537
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 770}",1.3452800783341412
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 780}",1.3450241631480595
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 790}",1.3448516407871658
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 800}",1.3443100908677974
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 810}",1.3449358550831378
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 820}",1.3450158214890247
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 830}",1.3457516790898167
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 840}",1.3458994019234458
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 850}",1.346158011473705
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 860}",1.3453813603019251
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 870}",1.3453472486234301
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 880}",1.3463832712566608
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 890}",1.3463063160747342
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 900}",1.346741747250909
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 910}",1.3463570964757832
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 920}",1.3465743098612732
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 930}",1.3461234252752963
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 940}",1.345818822178168
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 950}",1.345752321136267
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 960}",1.3453257668287852
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 970}",1.3450778499675584
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 980}",1.3455196449343563
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 990}",1.3450422685995116
+"{'model__bootstrap': False, 'model__max_features': 'sqrt', 'model__n_estimators': 1000}",1.345312788967981
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 10}",1.434930110959365
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 20}",1.4112688061673322
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 30}",1.3943238354083456
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 40}",1.386254869232831
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 50}",1.3752769986355586
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 60}",1.3624763009173173
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 70}",1.3539502722515047
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 80}",1.353410806027165
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 90}",1.3519454518455007
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 100}",1.3507782382443536
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 110}",1.348585729289324
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 120}",1.349897132819314
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 130}",1.351630215876587
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 140}",1.348036588482904
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 150}",1.3451993669755427
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 160}",1.3479858215703762
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 170}",1.3502304034186525
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 180}",1.3494617768732675
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 190}",1.3514331931020194
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 200}",1.349601691379027
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 210}",1.3508939286266244
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 220}",1.3521450566606523
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 230}",1.3519294415095697
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 240}",1.3499001036836225
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 250}",1.3488793230708396
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 260}",1.3484006992363795
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 270}",1.349260252993051
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 280}",1.3490667096054505
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 290}",1.3497135624347232
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 300}",1.3465882044434905
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 310}",1.3482188776706636
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 320}",1.3469452239042066
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 330}",1.347029460054125
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 340}",1.3455697756954748
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 350}",1.3440897828801848
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 360}",1.3436960448499018
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 370}",1.3432827762053692
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 380}",1.3438539370640135
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 390}",1.3444806178974464
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 400}",1.3448321630545401
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 410}",1.3435956557598967
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 420}",1.3441306033150888
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 430}",1.343637667788842
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 440}",1.3431854273597323
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 450}",1.3436450440474574
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 460}",1.3433038893323668
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 470}",1.3442770382846434
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 480}",1.344563425626982
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 490}",1.343946557804776
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 500}",1.343762860145251
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 510}",1.3439537014024499
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 520}",1.3442013301872586
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 530}",1.3456098798891751
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 540}",1.3465235488136922
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 550}",1.34708756568058
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 560}",1.34577316433686
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 570}",1.3454001916105407
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 580}",1.3444607830836792
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 590}",1.3438194553005673
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 600}",1.3441532246586076
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 610}",1.3455987508940404
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 620}",1.3448740778857784
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 630}",1.3445181653989295
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 640}",1.343927062738573
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 650}",1.3446820496051772
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 660}",1.34367232328498
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 670}",1.3434234732516388
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 680}",1.343542545252863
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 690}",1.3431394667306544
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 700}",1.343719689429473
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 710}",1.3441224823397226
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 720}",1.3445123300185302
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 730}",1.3451416885003913
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 740}",1.345458411845914
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 750}",1.3454323177942982
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 760}",1.3449964759049537
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 770}",1.3452800783341412
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 780}",1.3450241631480595
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 790}",1.3448516407871658
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 800}",1.3443100908677974
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 810}",1.3449358550831378
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 820}",1.3450158214890247
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 830}",1.3457516790898167
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 840}",1.3458994019234458
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 850}",1.346158011473705
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 860}",1.3453813603019251
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 870}",1.3453472486234301
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 880}",1.3463832712566608
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 890}",1.3463063160747342
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 900}",1.346741747250909
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 910}",1.3463570964757832
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 920}",1.3465743098612732
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 930}",1.3461234252752963
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 940}",1.345818822178168
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 950}",1.345752321136267
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 960}",1.3453257668287852
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 970}",1.3450778499675584
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 980}",1.3455196449343563
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 990}",1.3450422685995116
+"{'model__bootstrap': False, 'model__max_features': 'log2', 'model__n_estimators': 1000}",1.345312788967981
